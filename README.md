@@ -1,4 +1,4 @@
-# 💬 Gym Customer Feedback Insights: NLP Topic Modelling for Operational Improvement
+# 💬 Gym Customer Feedback Insights: Fine-tuned NLP Topic Modelling for Operational Improvement
 
 ---
 
